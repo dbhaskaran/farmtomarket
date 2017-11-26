@@ -40,3 +40,14 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+dist/
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Typings file.
+typings/
+
+# Misc
+tmp/
